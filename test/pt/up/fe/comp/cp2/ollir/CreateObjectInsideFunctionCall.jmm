@@ -1,0 +1,12 @@
+import ioPlus;
+import a.b;
+class HelloWorld{
+	public static void main(String[] args) {
+		ioPlus.printHelloWorld();
+		// b.ff();
+		a(1);
+	}
+	public int a(){
+	    return 1;
+	}
+}
